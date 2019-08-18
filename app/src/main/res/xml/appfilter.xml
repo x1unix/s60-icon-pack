@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2017 Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
+  ~ Special thanks to the project contributors and collaborators
+  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
+  -->
+
+<resources>
+    <item
+        component=":LAUNCHER_ACTION_APP_DRAWER"
+        drawable="app" />
+
+    <item
+        component=":BROWSER"
+        drawable="browser" />
+
+    <item
+        component=":CALCULATOR"
+        drawable="calculator" />
+
+    <item
+        component=":CALENDAR"
+        drawable="calendar" />
+
+    <item
+        component=":CAMERA"
+        drawable="camera" />
+
+    <item
+        component=":CLOCK"
+        drawable="clock" />
+
+    <item
+        component=":CONTACTS"
+        drawable="contacts" />
+
+    <item
+        component=":EMAIL"
+        drawable="email" />
+
+    <item
+        component=":GALLERY"
+        drawable="gallery" />
+
+    <item
+        component=":PHONE"
+        drawable="phone" />
+
+    <item
+        component=":SMS"
+        drawable="sms" />
+
+    <item
+        component=":LAUNCHER_ACTION_APP_DRAWER"
+        drawable="app" />
+
+
+    <!-- Settings -->
+    <item
+        component="ComponentInfo{is.shortcut/com.voxel.launcher3.Launcher}"
+        drawable="app_alt" />
+
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="settings" />
+
+    <!-- Calendar -->
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="calendar" />
+
+    <item
+        component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="calendar" />
+
+    <item
+        component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}"
+        drawable="calendar" />
+
+    <!-- Browser -->
+    <item
+        component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
+        drawable="browser" />
+
+    <item
+        component="ComponentInfo{com.android.chrome/com.android.chrome.Main}"
+        drawable="browser" />
+
+    <item
+        component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}"
+        drawable="browser" />
+
+    <item
+        component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.BrowserApp}"
+        drawable="browser_alt" />
+
+    <!-- Clock -->
+    <item
+        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}"
+        drawable="clock" />
+
+    <item
+        component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}"
+        drawable="clock" />
+
+    <item
+        component="ComponentInfo{com.android.alarmclock/com.android.alarmclock.AlarmClock}"
+        drawable="clock" />
+
+    <item
+        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}"
+        drawable="clock" />
+
+    <item
+        component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
+        drawable="clock" />
+
+    <item
+        component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}"
+        drawable="clock" />
+
+    <!-- Camera -->
+    <item
+        component="ComponentInfo{com.android.camera2/com.android.camera.CameraActivity}"
+        drawable="camera" />
+
+    <item
+        component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+
+    <item
+        component="ComponentInfo{org.codeaurora.snapcam/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity}"
+        drawable="camera" />
+
+    <item
+        component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+
+    <item
+        component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
+        drawable="camera" />
+
+    <!-- Gallery -->
+    <item
+        component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}"
+        drawable="gallery" />
+
+    <item
+        component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery3d.app.GalleryActivity}"
+        drawable="gallery" />
+
+    <!-- Calculator -->
+    <item
+        component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
+        drawable="calculator" />
+
+    <!-- SMS/MMS -->
+    <item
+        component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}"
+        drawable="mms" />
+
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="mms"/>
+    <item component="ComponentInfo{com.motorola.blur.conversations/com.motorola.blur.conversations.ui.ConversationList}" drawable="mms"/>
+    <item component="ComponentInfo{com.motorola.blur.messaging/com.motorola.blur.messaging.MessagingActivity}" drawable="mms"/>
+    <item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="mms"/>
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="mms"/>
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="mms"/>
+
+
+    <!-- Phone -->
+    <item
+        component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}"
+        drawable="call_log" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallLogActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.CallLogActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallLogActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsRecentCallsListActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallDialtactsActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.RecentCallsLauncherActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.contacts/com.oppo.contacts.OppoDialtactsActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity}" drawable="call_log"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PCUDialtactsActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.htcdialer/com.android.htcdialer.Dialer}" drawable="call_log"/>
+    <item component="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity}" drawable="call_log"/>
+    <item component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}" drawable="call_log"/>
+    <item component="ComponentInfo{com.android.phone/com.android.phone.DialtactsContactsEntryActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.RecentCallsListActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.firewall.PhoneFireWall}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.LaunchCallInterface}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.Settings}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.LaunchRecentCallsActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.DialtactsCallLogActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.DialerSClass}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.TwDialer}" drawable="call_log" />
+    <item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.DialerTabActivity}" drawable="call_log"/>
+
+    <!-- Contacts -->
+    <item
+        component="ComponentInfo{com.samsung.android.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}"
+        drawable="contacts" />
+
+    <!-- Voice Mail -->
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.VoiceMailTabActivity}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.coremobility.app.vnotes/com.coremobility.app.vnotes.CM_VnoteInbox}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.motorola.vvm/com.motorola.vvm.ui.VvmMainActivity}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.samsung.vvmapp/com.samsung.vvmapp.VVMApplication}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.tmobile.vvm.application/com.tmobile.vvm.application.activity.setup.WelcomeActivity}" drawable="sound_recorder" />
+
+    <!-- Gmail, email -->
+    <item
+        component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}"
+        drawable="email" />
+
+    <item
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
+        drawable="gmail" />
+
+    <!-- simplenote -->
+    <item
+        component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}"
+        drawable="notepad" />
+
+    <!-- youtube -->
+    <item
+        component="ComponentInfo{com.google.android.youtube/com.google.android.apps.youtube.app.application.Shell$HomeActivity}"
+        drawable="youtube" />
+
+    <item
+        component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
+        drawable="youtube" />
+
+
+    <!-- Music -->
+    <item
+        component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}"
+        drawable="music" />
+
+    <item
+        component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}"
+        drawable="music" />
+
+    <item
+        component="ComponentInfo{com.tbig.playerpro/com.tbig.playerpro.BrowsingActivity}"
+        drawable="music" />
+
+
+    <!-- Dict && Translate-->
+    <item
+        component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}"
+        drawable="dictionary" />
+
+
+    <!-- App Store -->
+    <item
+        component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
+        drawable="app" />
+
+
+    <!-- Skype -->
+    <item
+        component="ComponentInfo{com.skype.raider/com.skype.raider.Main}"
+        drawable="skype" />
+
+
+    <!-- Voice ecorders -->
+    <item
+        component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}"
+        drawable="voice_dialer" />
+    <item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.VoiceRecorder}" drawable="voice_dialer" />
+    <item component="ComponentInfo{com.sec.android.app.voicerecorder/com.sec.android.app.voicerecorder.VoiceRecorderMainActivity}" drawable="voice_dialer"/>
+    <item component="ComponentInfo{com.htc.soundrecorder/com.htc.soundrecorder.SoundRecorderBG}" drawable="voice_dialer"/>
+
+
+    <!-- File Managers -->
+    <item
+        component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}"
+        drawable="files" />
+    <item component="ComponentInfo{com.motorola.filemanager/com.motorola.filemanager.FileManagerActivity}" drawable="files" />
+    <item component="ComponentInfo{org.openintents.filemanager/org.openintents.filemanager.FileManagerActivity}" drawable="files" />
+    <item component="ComponentInfo{com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="files" />
+    <item component="ComponentInfo{com.mars.miuifilemanager/com.mars.miuifilemanager.ui.FileExplorerTabActivity}" drawable="files"/>
+    <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="files"/>
+    <item component="ComponentInfo{org.openintents.cmfilemanager/org.openintents.cmfilemanager.FileManagerActivity}" drawable="files"/>
+    <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" drawable="files"/>
+
+
+    <!-- Book Readers -->
+    <item
+        component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.play.books.app.BooksActivity}"
+        drawable="books" />
+
+
+    <!-- Google Search -->
+    <item
+        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.queryentry.QueryEntryActivity}"
+        drawable="sound_recorder" />
+
+    <item
+        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.searchnow.SearchNowActivity}"
+        drawable="search" />
+
+
+
+    <!-- Maps -->
+    <item
+        component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
+        drawable="navigator" />
+
+    <item
+        component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.SplashActivity}"
+        drawable="navigator" />
+
+    <!-- WhatsApp -->
+    <item
+        component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
+        drawable="whatsapp" />
+
+    <!-- Viber -->
+    <item
+        component="ComponentInfo{com.viber.voip/com.viber.voip.HomeActivity}"
+        drawable="viber" />
+
+    <item
+        component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}"
+        drawable="viber" />
+
+    <item
+        component="ComponentInfo{com.viber.voip/com.viber.voip.SplashActivity}"
+        drawable="viber" />
+
+    <!-- Video Player -->
+    <item
+        component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.honeycomb.VideosActivity}"
+        drawable="video_player"/>
+    <item
+        component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}"
+        drawable="video_player"/>
+
+    <!--<item-->
+    <!--    component="ComponentInfo{}"-->
+    <!--    drawable="" />-->
+
+</resources>

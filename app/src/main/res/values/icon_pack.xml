@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2018. Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike 
+  ~ 4.0 International License. You may not use this file except in compliance 
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- Make sure to put at least 8 icons -->
+    <string-array name="icons_preview">
+        <item>app</item>
+        <item>browser</item>
+        <item>calculator</item>
+        <item>calendar</item>
+        <item>camera</item>
+        <item>call_log</item>
+        <item>contacts</item>
+        <item>gallery</item>
+        <item>settings</item>
+        <item>mms</item>
+        <item>email</item>
+        <item>gmail</item>
+        <item>notepad</item>
+        <item>youtube</item>
+        <item>music</item>
+        <item>files</item>
+        <item>sdcard</item>
+        <item>downloads</item>
+        <item>search</item>
+        <item>sim</item>
+        <item>sound_recorder</item>
+        <item>themes</item>
+        <item>voice_dialer</item>
+        <item>sync</item>
+        <item>calculator_alt</item>
+        <item>camera_alt</item>
+        <item>browser_alt</item>
+        <item>remote_control</item>
+        <item>google_plus</item>
+        <item>navigator</item>
+        <item>fm_radio</item>
+        <item>weather</item>
+        <item>settings_alt</item>
+        <item>files_alt</item>
+        <item>books</item>
+        <item>skype</item>
+        <item>viber</item>
+        <item>whatsapp</item>
+        <item>app_alt</item>
+        <item>dictionary</item>
+        <item>video_player</item>
+
+    </string-array>
+
+    <!-- These sections below are for your "Previews" section -->
+    <!-- These names should match YOUR actual icon names
+    	 the names used below are just for sampling purposes -->
+
+    <!-- Make sure the filters names are the same as the other arrays -->
+    <string-array name="icon_filters">
+        <item>all</item>
+    </string-array>
+
+    <string-array name="all">
+        <item>app</item>
+        <item>browser</item>
+        <item>calculator</item>
+        <item>calendar</item>
+        <item>camera</item>
+        <item>call_log</item>
+        <item>contacts</item>
+        <item>gallery</item>
+        <item>settings</item>
+        <item>clock</item>
+        <item>mms</item>
+        <item>email</item>
+        <item>gmail</item>
+        <item>notepad</item>
+        <item>youtube</item>
+        <item>music</item>
+        <item>files</item>
+        <item>sdcard</item>
+        <item>downloads</item>
+        <item>search</item>
+        <item>sim</item>
+        <item>sound_recorder</item>
+        <item>themes</item>
+        <item>voice_dialer</item>
+        <item>sync</item>
+        <item>calculator_alt</item>
+        <item>camera_alt</item>
+        <item>browser_alt</item>
+        <item>remote_control</item>
+        <item>google_plus</item>
+        <item>navigator</item>
+        <item>fm_radio</item>
+        <item>weather</item>
+        <item>settings_alt</item>
+        <item>files_alt</item>
+        <item>books</item>
+        <item>skype</item>
+        <item>viber</item>
+        <item>whatsapp</item>
+        <item>app_alt</item>
+        <item>dictionary</item>
+        <item>video_player</item>
+    </string-array>
+
+    <string-array name="icon_pack">
+        <item>app</item>
+        <item>browser</item>
+        <item>calculator</item>
+        <item>calendar</item>
+        <item>camera</item>
+        <item>call_log</item>
+        <item>contacts</item>
+        <item>gallery</item>
+        <item>settings</item>
+        <item>clock</item>
+        <item>mms</item>
+        <item>email</item>
+        <item>gmail</item>
+        <item>notepad</item>
+        <item>youtube</item>
+        <item>music</item>
+        <item>files</item>
+        <item>sdcard</item>
+        <item>downloads</item>
+        <item>search</item>
+        <item>sim</item>
+        <item>sound_recorder</item>
+        <item>themes</item>
+        <item>voice_dialer</item>
+        <item>sync</item>
+        <item>calculator_alt</item>
+        <item>camera_alt</item>
+        <item>browser_alt</item>
+        <item>remote_control</item>
+        <item>google_plus</item>
+        <item>navigator</item>
+        <item>fm_radio</item>
+        <item>weather</item>
+        <item>settings_alt</item>
+        <item>files_alt</item>
+        <item>books</item>
+        <item>skype</item>
+        <item>viber</item>
+        <item>whatsapp</item>
+        <item>app_alt</item>
+        <item>dictionary</item>
+        <item>video_player</item>
+    </string-array>
+</resources>
