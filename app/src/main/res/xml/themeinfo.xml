@@ -25,6 +25,6 @@
     <themeName>S60 Icon Pack</themeName>
     <!-- Default Component Color -->
     <themePointColor>#105AA5</themePointColor>
-    <themePreview img1="preview1" />
-    <preview img1="preview1" />
+    <themePreview img1="preview" />
+    <preview img1="preview" />
 </themeInfo>

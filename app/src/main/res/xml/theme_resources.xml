@@ -22,9 +22,9 @@
     <Label value="Nokia S60 Icons" />
     <Wallpaper image="wallpaper" />
     <LockScreenWallpaper image="wallpaper" />
-    <ThemePreview image="wallpaper" />
-    <ThemePreviewWork image="wallpaper" />
-    <ThemePreviewMenu image="wallpaper" />
+    <ThemePreview image="preview" />
+    <ThemePreviewWork image="preview" />
+    <ThemePreviewMenu image="preview" />
     <DockMenuAppIcon selector="drawer" />
 
     <!-- Contacts App -->

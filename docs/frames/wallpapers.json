@@ -2,21 +2,21 @@
   "Collections": [
     {
       "name": "Nokia",
-      "preview_url": "https://raw.githubusercontent.com/x1unix/s60-icon-pack/raw/master/docs/thumbnails/preview1.jpg",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/x1unix/s60-icon-pack/raw/master/docs/thumbnails/preview1.jpg"
+      "preview_url": "https://x1unix.github.io/s60-icon-pack/thumbnails/preview1.jpg",
+      "preview_thumbnail_url": "https://x1unix.github.io/s60-icon-pack/thumbnails/preview1.jpg"
     }
   ],
   "Wallpapers": [
     {
       "name": "Nokia Default",
       "author": "Nokia",
-      "url": "https://raw.githubusercontent.com/x1unix/s60-icon-pack/raw/master/docs/wallpapers/stock.jpg",
+      "url": "https://x1unix.github.io/s60-icon-pack/wallpapers/stock.jpg",
       "collections": "nokia"
     },
     {
       "name": "Lines",
       "author": "Nokia",
-      "url": "https://raw.githubusercontent.com/x1unix/s60-icon-pack/raw/master/docs/wallpapers/lines.jpg",
+      "url": "https://x1unix.github.io/s60-icon-pack/wallpapers/lines.jpg",
       "collections": "nokia"
     }
   ]

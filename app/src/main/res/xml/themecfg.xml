@@ -22,6 +22,6 @@
     <version>1.0</version>
     <themeName>S60 Icon Pack</themeName>
     <themeInfo>Nokia Series 60 icons pack</themeInfo>
-    <preview img1="preview1" />
-    <preview img2="preview2" />
+    <preview img1="preview" />
+    <preview img2="preview" />
 </theme>
