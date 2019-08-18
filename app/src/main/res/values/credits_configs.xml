@@ -28,10 +28,10 @@
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>Twitter</item>
+        <item>GitHub|Twitter</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://twitter.com/x1unix</item>
+        <item>http://github.com/x1unix|https://twitter.com/x1unix</item>
     </string-array>
 </resources>
