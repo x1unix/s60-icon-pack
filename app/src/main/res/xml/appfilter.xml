@@ -57,7 +57,7 @@
 
     <item
         component=":PHONE"
-        drawable="phone" />
+        drawable="call_log" />
 
     <item
         component=":SMS"
@@ -68,11 +68,14 @@
         drawable="app" />
 
 
-    <!-- Settings -->
+    <!-- Launchers -->
     <item
         component="ComponentInfo{is.shortcut/com.voxel.launcher3.Launcher}"
         drawable="app_alt" />
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher}" drawable="app_alt" />
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="settings_alt" />
 
+    <!-- Settings -->
     <item
         component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
         drawable="settings" />
@@ -178,6 +181,7 @@
     <item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="mms"/>
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="mms"/>
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="mms"/>
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="mms"/>
 
 
     <!-- Phone -->
@@ -208,6 +212,22 @@
     <item component="ComponentInfo{com.android.phone/com.android.phone.DialtactsCallLogActivity}" drawable="call_log" />
     <item component="ComponentInfo{com.android.phone/com.android.phone.DialerSClass}" drawable="call_log" />
     <item component="ComponentInfo{com.android.phone/com.android.phone.TwDialer}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.DialtactsActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.activities.CallLogActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.android.dialer.DialtactsActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.android.dialer.CallDetailActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.apps.dialer.calllog.GoogleCallDetailActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.android.dialer.activities.CallLogActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.calllog.GoogleCallDetailActiviy}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.libraries.social.licenses.LicenseMenuActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.android.dialer.app.CallDetailActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.RecentCallsListActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.android.dialer.RecentCallsListActivity}" drawable="call_log" />
+    <item component="ComponentInfo{com.google.android.dialer/com.android.contacts.common.dialog.CallSubjectDialog}" drawable="call_log" />
     <item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.DialerTabActivity}" drawable="call_log"/>
 
     <!-- Contacts -->
@@ -298,7 +318,13 @@
     <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="files"/>
     <item component="ComponentInfo{org.openintents.cmfilemanager/org.openintents.cmfilemanager.FileManagerActivity}" drawable="files"/>
     <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" drawable="files"/>
+    <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.files.FilesActivity}" drawable="downloads" />
+    <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.Launcher}" drawable="downloads" />
+    <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="downloads" />
+    <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="downloads" />
 
+    <!-- Google Drive -->
+    <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="sdcard" />
 
     <!-- Book Readers -->
     <item
@@ -314,6 +340,9 @@
     <item
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.searchnow.SearchNowActivity}"
         drawable="search" />
+
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="search" />
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.velour.DynamicActivityTrampoline}" drawable="weather" />
 
 
 
