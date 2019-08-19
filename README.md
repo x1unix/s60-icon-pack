@@ -10,6 +10,6 @@ App based on [Blueprint](https://github.com/jahirfiquitiva/Blueprint).
 
 # Preview
 <p align="center">
-<img src="docs/preview_cover.jpg" height="350"/>
-<img src="docs/preview_icons.jpg" height="350"/>
+<img src="docs/preview_cover.png" height="350"/>
+<img src="docs/preview_icons.png" height="350"/>
 </p>
