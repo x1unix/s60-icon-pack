@@ -55,8 +55,8 @@ android {
         applicationId "com.x1unix.s60icons"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 100
-        versionName "1.0.0"
+        versionCode 110
+        versionName "1.1.0"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
