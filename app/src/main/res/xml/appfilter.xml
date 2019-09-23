@@ -224,6 +224,10 @@
         component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
         drawable="gallery" />
 
+    <item
+        component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}"
+        drawable="gallery" />
+
     <!-- Calculator -->
     <item
         component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
@@ -409,6 +413,10 @@
     <!-- Podcasts -->
     <item
         component="ComponentInfo{com.laughable/com.laughable.view.activities.HomeScreenActivity}"
+        drawable="voice_dialer" />
+
+    <item
+        component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}"
         drawable="voice_dialer" />
 
 
