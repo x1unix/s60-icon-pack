@@ -15,9 +15,10 @@
   ~ limitations under the License.
   -->
 <resources>
+    <version title="v1.1.0" />
+    <item text="Add additional icons upon icon requests" />
     <version title="v1.0.0" />
-    <item text="Initial Changelog" />
-    <item text="Bullet point here" />
-    <item text="More points" />
+    <item text="Initial release" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
+
 </resources>

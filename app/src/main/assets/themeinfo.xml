@@ -20,8 +20,8 @@
 <!-- This is for Atom Launcher -->
 <themeInfo>
     <packageName>com.x1unix.s60icons</packageName>
-    <versionName>1.0</versionName>
-    <versionCode>1</versionCode>
+    <versionName>1.1</versionName>
+    <versionCode>2</versionCode>
     <themeName>Nokia S60 Icons</themeName>
     <!-- Default Component Color -->
     <themePointColor>#105AA5</themePointColor>
