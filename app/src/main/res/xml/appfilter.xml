@@ -279,6 +279,10 @@
         component="ComponentInfo{com.tbig.playerpro/com.tbig.playerpro.BrowsingActivity}"
         drawable="music" />
 
+    <item
+        component="ComponentInfo{com.musicplayer.playermusic/com.musicplayer.playermusic.activities.SplashActivity}"
+        drawable="music" />
+
 
     <!-- Dict && Translate-->
     <item

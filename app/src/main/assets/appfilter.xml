@@ -68,11 +68,14 @@
         drawable="app" />
 
 
-    <!-- Settings -->
+    <!-- Launchers -->
     <item
         component="ComponentInfo{is.shortcut/com.voxel.launcher3.Launcher}"
         drawable="app_alt" />
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher}" drawable="app_alt" />
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="settings_alt" />
 
+    <!-- Settings -->
     <item
         component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
         drawable="settings" />
@@ -274,6 +277,10 @@
 
     <item
         component="ComponentInfo{com.tbig.playerpro/com.tbig.playerpro.BrowsingActivity}"
+        drawable="music" />
+
+    <item
+        component="ComponentInfo{com.musicplayer.playermusic/com.musicplayer.playermusic.activities.SplashActivity}"
         drawable="music" />
 
 
