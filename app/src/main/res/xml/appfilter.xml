@@ -72,8 +72,19 @@
     <item
         component="ComponentInfo{is.shortcut/com.voxel.launcher3.Launcher}"
         drawable="app_alt" />
-    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher}" drawable="app_alt" />
-    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="settings_alt" />
+    <item
+        component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher}"
+        drawable="app_alt" />
+    <item
+        component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}"
+        drawable="settings_alt" />
+    <item
+        component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}"
+        drawable="settings_alt" />
+
+    <item
+        component="ComponentInfo{com.launcher.s.plus/com.splus.launcher.Launcher}"
+        drawable="settings_alt" />
 
     <!-- Settings -->
     <item
@@ -107,8 +118,36 @@
         drawable="browser" />
 
     <item
+        component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}"
+        drawable="browser" />
+
+    <item
         component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.BrowserApp}"
         drawable="browser_alt" />
+
+    <item
+        component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}"
+        drawable="browser" />
+
+    <item
+        component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}"
+        drawable="browser_alt" />
+
+    <item
+        component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}"
+        drawable="browser_alt" />
+
+    <item
+        component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}"
+        drawable="browser_alt" />
+
+    <item
+        component="ComponentInfo{com.opera.browser/com.opera.Opera}"
+        drawable="browser" />
+
+    <item
+        component="ComponentInfo{com.opera.touch/com.opera.touch.MainActivity}"
+        drawable="browser" />
 
     <!-- Clock -->
     <item
@@ -156,6 +195,22 @@
         component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
         drawable="camera" />
 
+    <item
+        component="ComponentInfo{com.hmdglobal.camera2/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+
+    <item
+        component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+
+    <item
+        component="ComponentInfo{com.flavionet.android.cinema.pro/com.flavionet.android.cinema.pro.Main}"
+        drawable="camera_alt" />
+
+    <item
+        component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+
     <!-- Gallery -->
     <item
         component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}"
@@ -165,9 +220,21 @@
         component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery3d.app.GalleryActivity}"
         drawable="gallery" />
 
+    <item
+        component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
+        drawable="gallery" />
+
+    <item
+        component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}"
+        drawable="gallery" />
+
     <!-- Calculator -->
     <item
         component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
+        drawable="calculator" />
+
+    <item
+        component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}"
         drawable="calculator" />
 
     <!-- SMS/MMS -->
@@ -229,6 +296,8 @@
     <item component="ComponentInfo{com.google.android.dialer/com.android.dialer.RecentCallsListActivity}" drawable="call_log" />
     <item component="ComponentInfo{com.google.android.dialer/com.android.contacts.common.dialog.CallSubjectDialog}" drawable="call_log" />
     <item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.DialerTabActivity}" drawable="call_log"/>
+    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="call_log"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="call_log"/>
 
     <!-- Contacts -->
     <item
@@ -248,12 +317,28 @@
         drawable="email" />
 
     <item
+        component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}"
+        drawable="email" />
+
+    <item
         component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
         drawable="gmail" />
 
-    <!-- simplenote -->
+    <item
+        component="ComponentInfo{com.lonelycatgames.PM/com.lonelycatgames.PM.Fragment.AccountListFragment$AccountListActivity}"
+        drawable="email" />
+
+    <!-- Notes -->
     <item
         component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}"
+        drawable="notepad" />
+
+    <item
+        component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}"
+        drawable="notepad" />
+
+    <item
+        component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}"
         drawable="notepad" />
 
     <!-- youtube -->
@@ -279,12 +364,31 @@
         component="ComponentInfo{com.tbig.playerpro/com.tbig.playerpro.BrowsingActivity}"
         drawable="music" />
 
+    <item
+        component="ComponentInfo{com.musicplayer.playermusic/com.musicplayer.playermusic.activities.SplashActivity}"
+        drawable="music" />
+
+    <item
+        component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}"
+        drawable="music" />
+
+    <item
+        component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}"
+        drawable="music" />
+
 
     <!-- Dict && Translate-->
     <item
         component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}"
         drawable="dictionary" />
 
+    <item
+        component="ComponentInfo{com.dridev.kamusku/com.dridev.kamusku.DictionaryPage}"
+        drawable="dictionary" />
+
+    <item
+        component="ComponentInfo{com.youdao.hindict/com.youdao.hindict.activity.SplashActivity}"
+        drawable="dictionary" />
 
     <!-- App Store -->
     <item
@@ -298,13 +402,22 @@
         drawable="skype" />
 
 
-    <!-- Voice ecorders -->
+    <!-- Voice recorders -->
     <item
         component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}"
         drawable="voice_dialer" />
     <item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.VoiceRecorder}" drawable="voice_dialer" />
     <item component="ComponentInfo{com.sec.android.app.voicerecorder/com.sec.android.app.voicerecorder.VoiceRecorderMainActivity}" drawable="voice_dialer"/>
     <item component="ComponentInfo{com.htc.soundrecorder/com.htc.soundrecorder.SoundRecorderBG}" drawable="voice_dialer"/>
+
+    <!-- Podcasts -->
+    <item
+        component="ComponentInfo{com.laughable/com.laughable.view.activities.HomeScreenActivity}"
+        drawable="voice_dialer" />
+
+    <item
+        component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}"
+        drawable="voice_dialer" />
 
 
     <!-- File Managers -->
@@ -325,6 +438,11 @@
 
     <!-- Google Drive -->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="sdcard" />
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="files_alt" />
+    <item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="files" />
+
+    <!-- FM Radio -->
+    <item component="ComponentInfo{com.evenwell.fmradio/com.evenwell.fmradio.FMRadioActivity}" drawable="fm_radio" />
 
     <!-- Book Readers -->
     <item
@@ -355,6 +473,14 @@
         component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.SplashActivity}"
         drawable="navigator" />
 
+    <item
+        component="ComponentInfo{com.circlegate.tt.transit.android/com.circlegate.tt.transit.android.activity.MainActivity}"
+        drawable="navigator" />
+
+    <item
+        component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}"
+        drawable="navigator" />
+
     <!-- WhatsApp -->
     <item
         component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
@@ -380,6 +506,19 @@
     <item
         component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}"
         drawable="video_player"/>
+
+    <item
+        component="ComponentInfo{devian.tubemate.home/devian.tubemate.home.Main}"
+        drawable="video_player"/>
+
+    <!-- Etc -->
+    <item
+        component="ComponentInfo{com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup}"
+        drawable="sync"/>
+
+    <item
+        component="ComponentInfo{com.android.stk/com.android.stk.StkMain}"
+        drawable="sim"/>
 
     <!--<item-->
     <!--    component="ComponentInfo{}"-->
