@@ -188,6 +188,10 @@
         component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery3d.app.GalleryActivity}"
         drawable="gallery" />
 
+    <item
+        component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
+        drawable="gallery" />
+
     <!-- Calculator -->
     <item
         component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
@@ -283,9 +287,13 @@
         component="ComponentInfo{com.lonelycatgames.PM/com.lonelycatgames.PM.Fragment.AccountListFragment$AccountListActivity}"
         drawable="gmail" />
 
-    <!-- simplenote -->
+    <!-- Notes -->
     <item
         component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}"
+        drawable="notepad" />
+
+    <item
+        component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}"
         drawable="notepad" />
 
     <!-- youtube -->
@@ -319,12 +327,23 @@
         component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}"
         drawable="music" />
 
+    <item
+        component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}"
+        drawable="music" />
+
 
     <!-- Dict && Translate-->
     <item
         component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}"
         drawable="dictionary" />
 
+    <item
+        component="ComponentInfo{com.dridev.kamusku/com.dridev.kamusku.DictionaryPage}"
+        drawable="dictionary" />
+
+    <item
+        component="ComponentInfo{com.youdao.hindict/com.youdao.hindict.activity.SplashActivity}"
+        drawable="dictionary" />
 
     <!-- App Store -->
     <item
@@ -338,13 +357,18 @@
         drawable="skype" />
 
 
-    <!-- Voice ecorders -->
+    <!-- Voice recorders -->
     <item
         component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}"
         drawable="voice_dialer" />
     <item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.VoiceRecorder}" drawable="voice_dialer" />
     <item component="ComponentInfo{com.sec.android.app.voicerecorder/com.sec.android.app.voicerecorder.VoiceRecorderMainActivity}" drawable="voice_dialer"/>
     <item component="ComponentInfo{com.htc.soundrecorder/com.htc.soundrecorder.SoundRecorderBG}" drawable="voice_dialer"/>
+
+    <!-- Podcasts -->
+    <item
+        component="ComponentInfo{com.laughable/com.laughable.view.activities.HomeScreenActivity}"
+        drawable="voice_dialer" />
 
 
     <!-- File Managers -->
@@ -365,6 +389,11 @@
 
     <!-- Google Drive -->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="sdcard" />
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="files_alt" />
+    <item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="files" />
+
+    <!-- FM Radio -->
+    <item component="ComponentInfo{com.evenwell.fmradio/com.evenwell.fmradio.FMRadioActivity}" drawable="fm_radio" />
 
     <!-- Book Readers -->
     <item
@@ -425,10 +454,18 @@
         component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}"
         drawable="video_player"/>
 
+    <item
+        component="ComponentInfo{devian.tubemate.home/devian.tubemate.home.Main}"
+        drawable="video_player"/>
+
     <!-- Etc -->
     <item
         component="ComponentInfo{com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup}"
         drawable="sync"/>
+
+    <item
+        component="ComponentInfo{com.android.stk/com.android.stk.StkMain}"
+        drawable="sim"/>
 
     <!--<item-->
     <!--    component="ComponentInfo{}"-->
