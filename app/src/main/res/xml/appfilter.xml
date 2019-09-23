@@ -167,6 +167,14 @@
         component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
         drawable="camera" />
 
+    <item
+        component="ComponentInfo{com.hmdglobal.camera2/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+
+    <item
+        component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+
     <!-- Gallery -->
     <item
         component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}"
@@ -179,6 +187,10 @@
     <!-- Calculator -->
     <item
         component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
+        drawable="calculator" />
+
+    <item
+        component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}"
         drawable="calculator" />
 
     <!-- SMS/MMS -->
