@@ -256,6 +256,7 @@
     <item component="ComponentInfo{com.google.android.dialer/com.android.dialer.RecentCallsListActivity}" drawable="call_log" />
     <item component="ComponentInfo{com.google.android.dialer/com.android.contacts.common.dialog.CallSubjectDialog}" drawable="call_log" />
     <item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.DialerTabActivity}" drawable="call_log"/>
+    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="call_log"/>
 
     <!-- Contacts -->
     <item
