@@ -304,12 +304,16 @@
         drawable="email" />
 
     <item
+        component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}"
+        drawable="email" />
+
+    <item
         component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
         drawable="gmail" />
 
     <item
         component="ComponentInfo{com.lonelycatgames.PM/com.lonelycatgames.PM.Fragment.AccountListFragment$AccountListActivity}"
-        drawable="gmail" />
+        drawable="email" />
 
     <!-- Notes -->
     <item
@@ -318,6 +322,10 @@
 
     <item
         component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}"
+        drawable="notepad" />
+
+    <item
+        component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}"
         drawable="notepad" />
 
     <!-- youtube -->
