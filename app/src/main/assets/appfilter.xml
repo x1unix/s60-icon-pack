@@ -175,6 +175,10 @@
         component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
         drawable="camera" />
 
+    <item
+        component="ComponentInfo{com.flavionet.android.cinema.pro/com.flavionet.android.cinema.pro.Main}"
+        drawable="camera_alt" />
+
     <!-- Gallery -->
     <item
         component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}"
