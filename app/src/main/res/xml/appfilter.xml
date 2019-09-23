@@ -283,6 +283,10 @@
         component="ComponentInfo{com.musicplayer.playermusic/com.musicplayer.playermusic.activities.SplashActivity}"
         drawable="music" />
 
+    <item
+        component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}"
+        drawable="music" />
+
 
     <!-- Dict && Translate-->
     <item
