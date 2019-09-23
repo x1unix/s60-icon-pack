@@ -121,6 +121,30 @@
         component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.BrowserApp}"
         drawable="browser_alt" />
 
+    <item
+        component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}"
+        drawable="browser" />
+
+    <item
+        component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}"
+        drawable="browser_alt" />
+
+    <item
+        component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}"
+        drawable="browser_alt" />
+
+    <item
+        component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}"
+        drawable="browser_alt" />
+
+    <item
+        component="ComponentInfo{com.opera.browser/com.opera.Opera}"
+        drawable="browser" />
+
+    <item
+        component="ComponentInfo{com.opera.touch/com.opera.touch.MainActivity}"
+        drawable="browser" />
+
     <!-- Clock -->
     <item
         component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}"
