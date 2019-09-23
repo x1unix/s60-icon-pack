@@ -72,8 +72,19 @@
     <item
         component="ComponentInfo{is.shortcut/com.voxel.launcher3.Launcher}"
         drawable="app_alt" />
-    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher}" drawable="app_alt" />
-    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="settings_alt" />
+    <item
+        component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher}"
+        drawable="app_alt" />
+    <item
+        component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}"
+        drawable="settings_alt" />
+    <item
+        component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}"
+        drawable="settings_alt" />
+
+    <item
+        component="ComponentInfo{com.launcher.s.plus/com.splus.launcher.Launcher}"
+        drawable="settings_alt" />
 
     <!-- Settings -->
     <item
