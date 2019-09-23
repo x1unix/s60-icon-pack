@@ -251,6 +251,10 @@
         component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
         drawable="gmail" />
 
+    <item
+        component="ComponentInfo{com.lonelycatgames.PM/com.lonelycatgames.PM.Fragment.AccountListFragment$AccountListActivity}"
+        drawable="gmail" />
+
     <!-- simplenote -->
     <item
         component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}"
@@ -363,6 +367,10 @@
         component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.SplashActivity}"
         drawable="navigator" />
 
+    <item
+        component="ComponentInfo{com.circlegate.tt.transit.android/com.circlegate.tt.transit.android.activity.MainActivity}"
+        drawable="navigator" />
+
     <!-- WhatsApp -->
     <item
         component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
@@ -388,6 +396,11 @@
     <item
         component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}"
         drawable="video_player"/>
+
+    <!-- Etc -->
+    <item
+        component="ComponentInfo{com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup}"
+        drawable="sync"/>
 
     <!--<item-->
     <!--    component="ComponentInfo{}"-->
