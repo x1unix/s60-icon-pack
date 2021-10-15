@@ -543,6 +543,12 @@
         component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
         drawable="app" />
 
+    <item
+        component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}"
+        drawable="app" />
+    <item
+        component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}"
+        drawable="app" />
 
     <!-- Skype -->
     <item
