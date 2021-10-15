@@ -142,6 +142,10 @@
         drawable="browser_alt" />
 
     <item
+        component="ComponentInfo{org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.HomeActivity}"
+        drawable="browser" />
+
+    <item
         component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}"
         drawable="browser_alt" />
 
