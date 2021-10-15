@@ -747,6 +747,16 @@
         component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}"
         drawable="navigator" />
 
+    <item
+        component="ComponentInfo{net.osmand/net.osmand.plus.activities.MainMenuActivity}"
+        drawable="navigator" />
+    <item
+        component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MainMenuActivity}"
+        drawable="navigator" />
+    <item
+        component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MapActivity}"
+        drawable="navigator" />
+
     <!-- WhatsApp -->
     <item
         component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
