@@ -455,6 +455,20 @@
         component="ComponentInfo{com.lonelycatgames.PM/com.lonelycatgames.PM.Fragment.AccountListFragment$AccountListActivity}"
         drawable="email" />
 
+    <item
+        component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}"
+        drawable="email" />
+    <item
+        component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageList}"
+        drawable="email" />
+    <item
+        component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}"
+        drawable="email" />
+    <item
+        component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageCompose}"
+        drawable="email" />
+
+
     <!-- Notes -->
     <item
         component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}"
