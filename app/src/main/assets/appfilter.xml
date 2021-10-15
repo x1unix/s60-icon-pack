@@ -370,6 +370,9 @@
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="mms"/>
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="mms"/>
 
+    <item
+        component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}"
+        drawable="mms" />
 
     <!-- Phone -->
     <item
