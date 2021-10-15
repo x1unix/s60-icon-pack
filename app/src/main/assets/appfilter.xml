@@ -371,6 +371,10 @@
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="mms"/>
 
     <item
+        component="ComponentInfo{com.nextcloud.talk2/com.nextcloud.talk.activities.MainActivity}"
+        drawable="mms" />
+
+    <item
         component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}"
         drawable="mms" />
 
@@ -800,6 +804,13 @@
         drawable="sync" />
     <item
         component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.MainActivity}"
+        drawable="sync" />
+
+    <item
+        component="ComponentInfo{com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity}"
+        drawable="sync" />
+    <item
+        component="ComponentInfo{com.nextcloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}"
         drawable="sync" />
 
     <!-- Etc -->
