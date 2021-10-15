@@ -482,6 +482,13 @@
         component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}"
         drawable="notepad" />
 
+    <item
+        component="ComponentInfo{org.billthefarmer.editor/Editor}"
+        drawable="notepad" />
+    <item
+        component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}"
+        drawable="notepad" />
+
     <!-- youtube -->
     <item
         component="ComponentInfo{com.google.android.youtube/com.google.android.apps.youtube.app.application.Shell$HomeActivity}"
