@@ -374,6 +374,10 @@
         component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}"
         drawable="mms" />
 
+    <item
+        component="ComponentInfo{eu.siacs.conversations/eu.siacs.conversations.ui.ConversationActivity}"
+        drawable="mms" />
+
     <!-- Phone -->
     <item
         component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}"
