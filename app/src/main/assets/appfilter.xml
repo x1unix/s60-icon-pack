@@ -236,6 +236,118 @@
         component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}"
         drawable="gallery" />
 
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Pink}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Purple}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Deep_purple}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Indigo}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Blue}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Light_blue}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Cyan}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Teal}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Green}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Light_green}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Lime}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Yellow}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Amber}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Orange}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Deep_orange}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Brown}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Blue_grey}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Grey_black}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Pink}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Deep_purple}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Indigo}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Blue}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Light_blue}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Cyan}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Teal}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Green}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Light_green}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Lime}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Yellow}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Amber}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Deep_orange}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Brown}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Blue_grey}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Grey_black}"
+        drawable="gallery" />
+
     <!-- Calculator -->
     <item
         component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
@@ -439,6 +551,118 @@
     <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="files"/>
     <item component="ComponentInfo{org.openintents.cmfilemanager/org.openintents.cmfilemanager.FileManagerActivity}" drawable="files"/>
     <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" drawable="files"/>
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Pink}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Purple}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Deep_purple}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Indigo}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Blue}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Light_blue}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Cyan}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Teal}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Green}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Light_green}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Lime}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Yellow}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Amber}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Orange}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Deep_orange}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Brown}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Blue_grey}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Grey_black}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Pink}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Purple}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Deep_purple}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Indigo}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Blue}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Light_blue}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Cyan}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Teal}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Green}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Light_green}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Lime}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Yellow}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Amber}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Deep_orange}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Brown}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Blue_grey}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Grey_black}"
+        drawable="files" />
+
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.files.FilesActivity}" drawable="downloads" />
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.Launcher}" drawable="downloads" />
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="downloads" />
