@@ -787,11 +787,22 @@
         component="ComponentInfo{devian.tubemate.home/devian.tubemate.home.Main}"
         drawable="video_player"/>
 
-    <!-- Etc -->
+    <!-- Sync -->
     <item
         component="ComponentInfo{com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup}"
         drawable="sync"/>
 
+    <item
+        component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.MainActivity}"
+        drawable="sync" />
+    <item
+        component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity}"
+        drawable="sync" />
+    <item
+        component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.MainActivity}"
+        drawable="sync" />
+
+    <!-- Etc -->
     <item
         component="ComponentInfo{com.android.stk/com.android.stk.StkMain}"
         drawable="sim"/>
