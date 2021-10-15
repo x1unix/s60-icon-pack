@@ -104,6 +104,10 @@
         component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}"
         drawable="calendar" />
 
+    <item
+        component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}"
+        drawable="calendar" />
+
     <!-- Browser -->
     <item
         component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
